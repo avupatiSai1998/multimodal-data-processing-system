@@ -21,6 +21,7 @@ It allows you to upload and process files of different types — text, PDFs, ima
 
 ---
 
+ install dependeices for appy
 pip install -r requirements.txt
 sudo apt install tesseract-ocr
 
