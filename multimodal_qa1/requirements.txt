@@ -1,13 +1,28 @@
+# Core framework
 streamlit
-faiss-cpu
-sentence-transformers
+python-dotenv
+sqlalchemy
+
+# Google Gemini API
 google-generativeai
-PyPDF2
-python-docx
+
+# File & text extraction
 pdfplumber
+python-docx
 pytesseract
 pillow
-whisper
-pytube
-ffmpeg-python
-SpeechRecognition
+pydub
+moviepy
+youtube-transcript-api
+
+# Audio transcription (Whisper)
+openai-whisper
+
+# Machine learning / embeddings
+sentence-transformers
+faiss-cpu
+
+# Utilities
+numpy
+torch
+tqdm
