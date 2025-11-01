@@ -1,0 +1,13 @@
+streamlit
+faiss-cpu
+sentence-transformers
+google-generativeai
+PyPDF2
+python-docx
+pdfplumber
+pytesseract
+pillow
+whisper
+pytube
+ffmpeg-python
+SpeechRecognition
